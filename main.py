@@ -60,9 +60,8 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print
-┏━━━━━━━⬣
-┗> \033[32mUSAGE: python main.py [url] 
+	print("\033[32m┏━━━━━━━⬣")
+    print("\033[32m┗> USAGE: python main.py [url] ")
 
 	
 #http request
