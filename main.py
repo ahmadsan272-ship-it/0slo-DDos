@@ -61,7 +61,7 @@ def buildblock(size):
 
 def usage():
 	print("\033[32m┏━━━━━━━⬣")
-    print("\033[32m┗> USAGE: python main.py [url] ")
+    print("\033[32m┗> USAGE: python main.py [url]")
 
 	
 #http request
